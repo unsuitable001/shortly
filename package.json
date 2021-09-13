@@ -1,0 +1,23 @@
+{
+  "name": "shortly",
+  "version": "0.0.1",
+  "description": "Simple, Fast and Friendly URL shortener.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unsuitable001/shortly.git"
+  },
+  "keywords": [
+    "url-shortener"
+  ],
+  "author": "Soumyadip Mondal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unsuitable001/shortly/issues"
+  },
+  "homepage": "https://github.com/unsuitable001/shortly#readme"
+}
