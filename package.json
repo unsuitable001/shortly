@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/unsuitable001/shortly/issues"
   },
-  "homepage": "https://github.com/unsuitable001/shortly#readme"
+  "homepage": "https://github.com/unsuitable001/shortly#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
